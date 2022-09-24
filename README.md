@@ -1,5 +1,5 @@
 # Articles
-Blockchain Developer Interview Questions, Decentralization guides, Solidity tips and more
+Blockchain Developer Interview Questions along with answers, Decentralization guides, Solidity tips and more
 
 List -
 
